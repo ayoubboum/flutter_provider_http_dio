@@ -3,7 +3,7 @@ import 'package:fltr_provider/provider/base_state.dart';
 import 'package:fltr_provider/services/news_services.dart';
 
 class NewsProvider extends BaseState {
-  News _get_news = new News();
+  News _get_news = News();
 
   News get news => _get_news;
   // Future<News> getNews() async {
@@ -14,7 +14,7 @@ class NewsProvider extends BaseState {
   //   setState(ViewState.LOADED);
   //   return _get_news;
   // }
-  NewsServices _newsServices = new NewsServices();
+  NewsServices _newsServices = NewsServices();
   Future<News> getNews() async {
     // String jsonNews = await rootBundle.loadString('assets/json/news.json');
     _get_news = await _newsServices.getNewss().catchError((onError) {

@@ -1,5 +1,6 @@
 import 'package:fltr_provider/provider/news_provider.dart';
 import 'package:fltr_provider/provider/todo_provider.dart';
+import 'package:fltr_provider/route.dart';
 import 'package:fltr_provider/views/home.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -28,16 +29,17 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('Head'),
-      ),
-      body: MultiProvider(
-        providers: [
-          ChangeNotifierProvider(create: (_) => TodoProvider()),
-          ChangeNotifierProvider(create: (_) => NewsProvider()),
-        ],
-        child: Home(),
+    return MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (_) => TodoProvider()),
+        ChangeNotifierProvider(create: (_) => NewsProvider()),
+      ],
+      child: MaterialApp(
+        title: 'Flutter Demo',
+        debugShowCheckedModeBanner: false,
+        theme: ThemeData(),
+        initialRoute: '/',
+        onGenerateRoute: Router.generateRoute,
       ),
     );
   }
