@@ -18,7 +18,9 @@ class NewsProvider extends BaseState {
   // }
   NewsServices _newsServices = NewsServices();
   String valSearchBar = "";
-  List listTest = [];
+  List _listTest = [];
+
+  List get listTest => _listTest;
 
   // String get valSearchBar => valSearchBar;
 
@@ -49,21 +51,30 @@ class NewsProvider extends BaseState {
   filterList(String valSearchBar) {
     print('--------------------' + valSearchBar);
     // print(valSearchBar);
-    listTest = [];
-    _get_news.articles.forEach((res) {
-      // res.author.contains(valSearchBar);
-      // print(res.author.contains(valSearchBar));
-      // print(res.author.contains(valSearchBar));
-      if (res.author
-          .toString()
-          .toLowerCase()
-          .contains(valSearchBar.toLowerCase())) {
-        listTest.add(res.author);
-        print(listTest);
-      }
-    });
-    // print(news);
+    // if (valSearchBar == '') {
+    //   listTest.add('no data');
+    // } else {
+    _listTest = [];
+    if (valSearchBar == '') {
+      _listTest = [];
+    } else {
+      _get_news.articles.forEach((res) {
+        // res.author.contains(valSearchBar);
+        // print(res.author.contains(valSearchBar));
+        // print(res.author.contains(valSearchBar));
+        if (res.author
+            .toString()
+            .toLowerCase()
+            .contains(valSearchBar.toLowerCase())) {
+          _listTest.add(res.author);
+        }
+      });
+      print('List lenght : ' + _listTest.length.toString());
+    }
+
     setState(ViewState.LOADED);
-    return news;
+    // }
+
+    // print(news);
   }
 }

@@ -27,30 +27,31 @@ class _SearchState extends State<Search> {
 
     // TODO: implement build
     return Scaffold(
-      appBar: AppBar(
-        leading: IconButton(
-          icon: Icon(
-            Icons.arrow_back,
+        appBar: AppBar(
+          leading: IconButton(
+            icon: Icon(
+              Icons.arrow_back,
+            ),
+            onPressed: () {
+              Navigator.pop(context);
+            },
           ),
-          onPressed: () {
-            Navigator.pop(context);
-          },
+          title: TextField(
+            controller: _filter,
+            decoration: new InputDecoration(hintText: 'Search...'),
+            // autofocus: true,
+            onChanged: (value) {
+              // print(value);
+              // news_provider.valSearchBar = value;
+              news_provider.filterList(value);
+            },
+          ),
         ),
-        title: TextField(
-          controller: _filter,
-          decoration: new InputDecoration(hintText: 'Search...'),
-          // autofocus: true,
-          onChanged: (value) {
-            // print(value);
-            // news_provider.valSearchBar = value;
-            news_provider.filterList(value);
-          },
-        ),
-      ),
-      body: ListView.builder(
-        itemCount: news_provider.listTest.length,
-        itemBuilder: (context, index) => Text(news_provider.listTest[index]),
-      ),
-    );
+        body: news_provider.listTest.length > 0
+            ? ListView.builder(
+                itemCount: news_provider.listTest.length,
+                itemBuilder: (context, index) =>
+                    Text(news_provider.listTest[index].toString()))
+            : Text('No data'));
   }
 }
