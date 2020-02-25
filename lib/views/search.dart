@@ -41,38 +41,15 @@ class _SearchState extends State<Search> {
           decoration: new InputDecoration(hintText: 'Search...'),
           // autofocus: true,
           onChanged: (value) {
-            print(value);
+            // print(value);
+            // news_provider.valSearchBar = value;
+            news_provider.filterList(value);
           },
         ),
       ),
-      body: FutureBuilder<News>(
-        initialData: news_provider.news,
-        future: _newsFuture,
-        builder: (context, snapshot) {
-          if (snapshot.connectionState == ConnectionState.done) {
-            if (snapshot.hasError) {
-              return Center(
-                  child: Text('Error: Try again later ' +
-                      snapshot.hasError.toString()));
-            }
-            return ListView.builder(
-              scrollDirection: Axis.vertical,
-              itemCount: snapshot.data.articles.length,
-              shrinkWrap: true,
-              itemBuilder: (context, index) => Row(
-                children: <Widget>[
-                  // snapshot.data.articles[index].author.contains('Charlie Wood')
-                  //     ? 
-                      Text(snapshot.data.articles[index].author.toString())
-                      // : Container()
-                ],
-              ),
-            );
-          } else
-            return Center(
-              child: Center(child: CircularProgressIndicator()),
-            );
-        },
+      body: ListView.builder(
+        itemCount: news_provider.listTest.length,
+        itemBuilder: (context, index) => Text(news_provider.listTest[index]),
       ),
     );
   }

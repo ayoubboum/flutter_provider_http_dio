@@ -1,110 +1,240 @@
 {
     "status": "ok",
-    "totalResults": 4535,
+    "totalResults": 4616,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "Telegraaf.nl"
-            },
-            "author": "Mark Garrelts",
-            "title": "Coronavirus slaat diepe wonden bij AEX",
-            "description": "Op het Damrak namen beleggers maandag massaal de wijk vanwege de sterk toegenomen zorgen over de verspreiding van het coronavirus. Bij de hoofdfondsen moesten vooral Galapagos en Arcelor Mittal het ontgelden. In de Midkap gingen Air France KLM en Fugro over d…",
-            "url": "https://www.telegraaf.nl/financieel/1165983631/coronavirus-slaat-diepe-wonden-bij-aex",
-            "urlToImage": "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4a9402f8-5724-11ea-9f0f-02d1dbdc35d1.jpg",
-            "publishedAt": "2020-02-24T16:35:00Z",
-            "content": "De AEX-index duikelde maar liefst 3,9% naar een stand van 593,30 punten, een terugval naar het laagste niveau sinds begin februari. Dat was tevens het grootste dagverlies sinds juni 2016. In de late middaghandel dook de hoofdgraadmeter zelfs nog even onder de… [+4638 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cyberciti.biz"
-            },
-            "author": "Vivek Gite",
-            "title": "Display Colored Man Pages in Linux and Unix",
-            "description": "How do I add a bit of color to my man pages under Linux / FreeBSD / Apple OS X / Unix like operating systems? How can I view colored man pages in Linux?The post Display Colored Man Pages in Linux and Unix appeared first on nixCraft.",
-            "url": "https://www.cyberciti.biz/faq/unix-linux-color-man-pages-configuration/",
-            "urlToImage": "https://www.cyberciti.biz/media/new/faq/2012/04/How-to-View-Colored-Man-Pages-in-Linux-and-Unix.png",
-            "publishedAt": "2020-02-24T16:27:00Z",
-            "content": "How do I add a bit of color to my man pages under Linux / FreeBSD / Apple OS X / Unix like operating systems? How can I view colored man pages in Linux?You need to install a pager called most to display colored man pages in Linux and Unix. It is a paging prog… [+7317 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Interia.pl"
+                "name": "Sputniknews.com"
             },
             "author": null,
-            "title": "Kradł sygnał telewizyjny - platformy straciły na tym 6 mln złotych",
-            "description": "​Policjanci zwalczający przestępczość gospodarczą z Komendy Wojewódzkiej Policji w Olsztynie zatrzymali 49-latka podejrzanego o \"sharing\", czyli kradzież, a potem odpłatne udostępnianie kanałów telewizyjnych. Mieszkaniec powiatu mrągowskiego od kilku lat w in…",
-            "url": "https://nt.interia.pl/news-kradl-sygnal-telewizyjny-platformy-stracily-na-tym-6-mln-zlo,nId,4345091",
-            "urlToImage": "https://i.iplsc.com/-/0009VA639R337P0V-C411.jpg",
-            "publishedAt": "2020-02-24T16:19:52Z",
-            "content": "Policjanci zwalczajcy przestpczo gospodarcz z Komendy Wojewódzkiej Policji w Olsztynie zatrzymali 49-latka podejrzanego o \"sharing\", czyli kradzie, a potem odpatne udostpnianie kanaów telewizyjnych. Mieszkaniec powiatu mrgowskiego od kilku lat w internecie ni… [+4931 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Matthew Impelli",
-            "title": "Marijuana Dealer Loses 60 Million In Bitcoin When Landlord Accidentally Throws It Out",
-            "description": "An Irish drug dealer lost around $60 million worth of bitcoin after his landlord threw out the codes used to access his accounts.",
-            "url": "https://www.newsweek.com/marijuana-dealer-loses-60-million-bitcoin-when-landlord-accidentally-throws-it-out-1488764",
-            "urlToImage": "https://d.newsweek.com/en/full/1568999/bitcoin.jpg",
-            "publishedAt": "2020-02-24T16:15:44Z",
-            "content": "An Irish drug dealer lost around $60 million worth of bitcoin after his landlord threw out the codes used to access his accounts.\r\nAccording to The Irish Independent, Clifton Collins, who is originally from Crumlin, Dublin, is currently on trial for charges o… [+2164 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Petapixel.com"
-            },
-            "author": "Michael Zhang",
-            "title": "JPEGs May Get AI for Smaller Files and Blockchain for Greater Trust",
-            "description": "The Joint Photographic Experts Group, the committee behind the JPEG image file, recently held its 86th meeting in Sydney, Australia, and among the topics discussed was using artificial intelligence for greater image procession and using blockchain (the techno…",
-            "url": "https://petapixel.com/2020/02/24/jpegs-may-get-ai-for-smaller-files-and-blockchain-for-greater-trust/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PetaPixel+%28PetaPixel%29",
-            "urlToImage": "https://petapixel.com/assets/uploads/2020/02/jpegaifeattt.jpg",
-            "publishedAt": "2020-02-24T16:13:05Z",
-            "content": "The Joint Photographic Experts Group, the committee behind the JPEG image file, recently held its 86th meeting in Sydney, Australia, and among the topics discussed was using artificial intelligence for greater image procession and using blockchain (the techno… [+2867 chars]"
+            "title": "Il perd ses codes de connexion et voit s’envoler 55 millions d’euros en bitcoins",
+            "description": "Un trafiquant de drogue qui avait investi dans le bitcoin a réalisé qu’il avait perdu 55 millions d’euros à sa sortie de prison, relatait ce vendredi The Irish Times.",
+            "url": "https://fr.sputniknews.com/insolite/202002251043130261-il-perd-ses-codes-de-connexion-et-voit-senvoler-55-millions-deuros-en-bitcoins/",
+            "urlToImage": "https://cdnfr2.img.sputniknews.com/images/104182/68/1041826893.jpg",
+            "publishedAt": "2020-02-25T20:35:11Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "Cointelegraph.com"
             },
-            "author": "Cointelegraph By Adrian Zmudzinski",
-            "title": "Binance CEO Changpeng Zhao: Bitcoin SV Founder Craig Wright ‘Is a Fraud’",
-            "description": "Bitcoin SV founder Craig Wright “is a fraud,” according to Changpeng Zhao, the CEO and co-founder of major crypto exchange Binance",
-            "url": "https://cointelegraph.com/news/binance-ceo-changpeng-zhao-bitcoin-sv-founder-craig-wright-is-a-fraud",
-            "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wMmU4YTRkMGU2OTRkZGVhNjhmMDU0OTM4MmQ4YmExNC5qcGc=.jpg",
-            "publishedAt": "2020-02-24T16:13:00Z",
-            "content": "Changpeng Zhao, the co-founder and CEO of major cryptocurrency exchange Binance publicly expressed distrust towards self-proclaimed Bitcoin (BTC) creator and Bitcoin SV (BSV) founder Craig Wright.\r\nIn a tweet published on Feb. 24, Zhao explicitly said that Cr… [+1216 chars]"
+            "author": "Cointelegraph By Benjamin Pirus",
+            "title": "Bitcoin Halving Mentions in Crypto Media Correlate With Bullish 2020 Price Action",
+            "description": "Crypto data company The TIE recently posted data showing Bitcoin’s price correlates to the number of halving mentions in digital asset trade publications",
+            "url": "https://cointelegraph.com/news/bitcoin-halving-mentions-in-crypto-media-correlate-with-bullish-2020-price-action",
+            "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wZGI2ZTJlZWFmYTU4NDdmYmMyMjg5NWZmODZkYjAwYi5qcGc=.jpg",
+            "publishedAt": "2020-02-25T20:02:00Z",
+            "content": "After evaluating data derived from crypto publication headlines, digital asset alternative data provider The TIE discovered a correlation between Bitcoin’s price in the market and mentions of the upcoming halving in media outlets.\r\n“We noticed how, as mention… [+2565 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Maddyness.com"
+                "name": "Seekingalpha.com"
             },
-            "author": "Geraldine Russell",
-            "title": "Mes 7 conseils pour passer de l’idée à l’exécution",
-            "description": "L’article Mes 7 conseils pour passer de l’idée à l’exécution est apparu en premier sur Maddyness - Le Magazine sur l’actualité des Startups Françaises.",
-            "url": "https://www.maddyness.com/2020/02/24/eric-larcheveque-idee-execution/",
-            "urlToImage": "https://www.maddyness.com/wp-content/uploads/2020/02/Saut-vide.jpg",
-            "publishedAt": "2020-02-24T16:12:30Z",
-            "content": "Cet article a initialement été publié sur la page Medium d’Éric Larchevêque\r\nGrâce à lexposition médiatique de QVEMA sur M6, jai reçu plusieurs centaines requêtes et demandes diverses. Jai été surpris de voir quune bonne partie des messages reçus étaient en f… [+14696 chars]"
+            "author": "Niloofer Shaikh",
+            "title": "On the hour",
+            "description": "<ul> <li>Dow <font color=\"red\">-2.62%</font>.</li><li>10-yr <font color=\"green\">+0.27%</font>.</li><li>Euro <font color=\"green\">+0.24%</font> vs. dollar.</li><li>Crude <font color=\"red\">-3.17%</font> to $49.80.</li><li>Gold <font color=\"red\">-1.55%</font> to …",
+            "url": "https://seekingalpha.com/news/3545406-on-hour",
+            "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+            "publishedAt": "2020-02-25T20:00:41Z",
+            "content": "Dow -2.62%.\r\n10-yr +0.27%.\r\nEuro +0.24% vs. dollar.\r\nCrude -3.17% to $49.80.\r\nGold -1.55% to $1,650.55.\r\nBitcoin -2.58% to $9,360."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newsbtc.com"
+            },
+            "author": "Rick Delafont",
+            "title": "Watch Your Bitcoin Buys; Careless Trader Overspends by $23,000",
+            "description": "If you’re invested in Bitcoin, the very recent price action probably isn’t much cause for celebration. The leading crypto asset has been dropping from a local high earlier this month of more than $10,300 to its current price of ~$9,730. If you’re feeling glum…",
+            "url": "https://www.newsbtc.com/2020/02/25/watch-your-bitcoin-buys-careless-trader-overspends-by-23000/",
+            "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/02/shutterstock_1103094848-1200x780.jpg",
+            "publishedAt": "2020-02-25T20:00:08Z",
+            "content": "If you’re invested in Bitcoin, the very recent price action probably isn’t much cause for celebration. The leading crypto asset has been dropping from a local high earlier this month of more than $10,300 to its current price of ~$9,730.\r\nIf you’re feeling glu… [+2758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entornointeligente.com"
+            },
+            "author": null,
+            "title": "Ángel guardián del Bitcoin: Brian Armstrong y su plan para reforzar la seguridad de criptomonedas",
+            "description": "En una de las calles de San Francisco se encuentran grandes pilares de piedra de un banco que data del siglo XIX. A unos pasos de distancia de ahí, están las oficinas de Coinbase, la mayor empresa de intercambio de bitcoins y criptomoneda s en Estados Unidos.…",
+            "url": "https://www.entornointeligente.com/ngel-guardin-del-bitcoin-brian-armstrong-y-su-plan-para-reforzar-la-seguridad-de-criptomonedas/",
+            "urlToImage": "https://www.entornointeligente.com/wp-content/uploads/2020/02/angel_guardian_del_bitcoin_brian_armstrong_y_su_plan_para_reforzar_la_seguridad_de_criptomonedas.jpg",
+            "publishedAt": "2020-02-25T19:52:00Z",
+            "content": "Entornointeligente.com / \r\nEn una de las calles de San Francisco se encuentran grandes pilares de piedra de un banco que data del siglo XIX. A unos pasos de distancia de ahí, están las oficinas de Coinbase , la mayor empresa de intercambio de  bitcoins y crip… [+17878 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Coindesk.com"
+            },
+            "author": "John Biggs",
+            "title": "Crypto News Roundup for Feb. 25, 2020",
+            "description": "Bitcoin fights to rise above $10K while a new crypto bank rises in Wyoming. It's Markets Daily from CoinDesk.",
+            "url": "https://www.coindesk.com/crypto-news-roundup-for-feb-25-2020",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T19:37:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vmblog.com"
+            },
+            "author": "David",
+            "title": "Anonymous VPS and Cryptocurrency Cloud Provider BitLaunch Launches New Datacenters to Support Fast-Growing Developer Ecosystems",
+            "description": "BitLaunch, the anonymous VPS and Bitcoin VPS provider, announced today the launch of 3 new datacenter locations in Los Angeles, US, Amsterdam, NL, and London, UK.",
+            "url": "https://vmblog.com:443/archive/2020/02/25/anonymous-vps-and-cryptocurrency-cloud-provider-bitlaunch-launches-new-datacenters-to-support-fast-growing-developer-ecosystems.aspx",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T19:33:00Z",
+            "content": "BitLaunch, the anonymous VPS and Bitcoin VPS provider, announced today the\r\nlaunch of 3 new datacenter locations in Los Angeles, US, Amsterdam, NL, and\r\nLondon, UK. BitLaunch has been growing rapidly - with thousands of registered\r\ncustomers globally - by off… [+1158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Noticiasseguridad.com"
+            },
+            "author": "Alisa Esage",
+            "title": "Hackean correos, servidores y redes de Secretaria de Economía",
+            "description": "Las organizaciones gubernamentales de todo el mundo son una de las más frecuentes víctimas de incidentes de ciberseguridad. En esta ocasión, el gobierno mexicano es el afectado, pues la Secretaría de Economía (SE) de México confirmó que fue blanco de un ataqu…",
+            "url": "https://noticiasseguridad.com/hacking-incidentes/hackean-correos-servidores-y-redes-de-secretaria-de-economia/",
+            "urlToImage": "https://noticiasseguridad.com/nsnews_u/2020/02/economia.jpg",
+            "publishedAt": "2020-02-25T19:31:00Z",
+            "content": "Las organizaciones gubernamentales de todo el mundo son una de las más frecuentes víctimas de incidentes de ciberseguridad. En esta ocasión, el gobierno mexicano es el afectado, pues la Secretaría de Economía (SE) de México confirmó que fue blanco de un ataqu… [+2586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Oann.com"
+            },
+            "author": null,
+            "title": "Bank of Canada preparing for possible digital currency: deputy governor",
+            "description": "By Kelsey Johnson OTTAWA - The Bank of Canada said on Tuesday it has no plans to issue a central bank digital currency at this time, but preparations are underway to create capacity to do so",
+            "url": "https://www.oann.com/bank-of-canada-preparing-for-possible-digital-currency-deputy-governor/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T19:25:11Z",
+            "content": "February 25, 2020\r\nBy Kelsey Johnson\r\nOTTAWA (Reuters) – The Bank of Canada said on Tuesday it has no plans to issue a central bank digital currency at this time, but preparations are underway to create capacity to do so should Canada’s payment ecosystem chan… [+1984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes.com"
+            },
+            "author": "Donna Fuscaldo, Contributor, Donna Fuscaldo, Contributor https://www.forbes.com/sites/donnafuscaldo/",
+            "title": "Square Gears Up To Report Fourth-Quarter Results; Shorts Take Cover",
+            "description": "Square is gearing up to report fourth-quarter earnings this week and shorts are bracing for upside out of the payments company.",
+            "url": "https://www.forbes.com/sites/donnafuscaldo/2020/02/25/square-gears-up-to-report-fourthquarter-results-shorts-take-cover/",
+            "urlToImage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5572c9765d4500072d2c98%2F960x0.jpg",
+            "publishedAt": "2020-02-25T19:21:27Z",
+            "content": "Square Terminal\r\nSquare\r\nCoronavirus fears may be taking every stock down in trading so far this week but for fintech Square, that trend could be short-lived. \r\nThe digital payments company owned by Jack Dorsey of Twitter fame is gearing up to report fourth-q… [+7119 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kelsey Johnson",
+            "title": "Bank of Canada preparing for possible digital currency: deputy governor",
+            "description": "The Bank of Canada said on Tuesday it has no plans to issue a central bank digital currency at this time, but preparations are underway to create capacity to do so should Canada's payment ecosystem change.",
+            "url": "https://ca.reuters.com/article/businessNews/idCAKBN20J2ED",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200225&t=2&i=1495134867&w=1200&r=LYNXMPEG1O1DO",
+            "publishedAt": "2020-02-25T19:18:00Z",
+            "content": "OTTAWA (Reuters) - The Bank of Canada said on Tuesday it has no plans to issue a central bank digital currency at this time, but preparations are underway to create capacity to do so should Canada’s payment ecosystem change. \r\nIn a speech to a business audien… [+1948 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newsbtc.com"
+            },
+            "author": "Tony Spilotro",
+            "title": "Bitcoin Bull Market Hangs in the Balance of Just One Line",
+            "description": "Bitcoin price is at a critical juncture, where a deeper drop from current levels could send the first-ever cryptocurrency back into a downtrend, or a climb from here could send it towards a new all-time high. All that is left that is holding up Bitcoin from f…",
+            "url": "https://www.newsbtc.com/2020/02/25/bitcoin-bull-market-hangs-in-the-balance-of-just-one-line/",
+            "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/02/bitcoin-bull-market-shutterstock_1216467208-1200x780.jpg",
+            "publishedAt": "2020-02-25T19:00:38Z",
+            "content": "Bitcoin price is at a critical juncture, where a deeper drop from current levels could send the first-ever cryptocurrency back into a downtrend, or a climb from here could send it towards a new all-time high.\r\nAll that is left that is holding up Bitcoin from … [+2527 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Bitcoinist.com"
             },
-            "author": "Christina Comben",
-            "title": "Gold Hits 7-Year High on Coronavirus Fears, Bitcoin Pump Next?",
-            "description": "The highly contagious coronavirus is racking up more cases outside of China and causing stock markets to tumble. As a result, investors are shifting to safe haven assets such as U.S. government bonds and gold, but Bitcoin has yet to budge. New Coronavirus Fig…",
-            "url": "https://bitcoinist.com/gold-hits-7-year-high-on-coronavirus-fears-bitcoin-next/",
-            "urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/02/shutterstock_58427011.jpg",
-            "publishedAt": "2020-02-24T16:00:49Z",
-            "content": "The highly contagious coronavirus is racking up more cases outside of China and causing stock markets to tumble. As a result, investors are shifting to safe haven assets such as U.S. government bonds and gold, but Bitcoin has yet to budge.\r\nNew Coronavirus Fi… [+2479 chars]"
+            "author": "Trevor Smith",
+            "title": "3 Reasons Why Bitcoin is in the Red Today",
+            "description": "Bitcoin is trading below USD $10,000 for the fifth consecutive day. Causes for this price correction can be tied to a series of predictable factors, none of which present a long-term threat to the overall crypto market. BITCOIN INVESTORS ARE TAKING PROFITS Wh…",
+            "url": "https://bitcoinist.com/3-reasons-why-bitcoin-is-in-the-red-today/",
+            "urlToImage": "https://bitcoinist.com/wp-content/uploads/2019/08/shutterstock_283744568-1920x1200.jpg",
+            "publishedAt": "2020-02-25T19:00:09Z",
+            "content": "Bitcoin is trading below USD $10,000 for the fifth consecutive day. Causes for this price correction can be tied to a series of predictable factors, none of which present a long-term threat to the overall crypto market.\r\nBITCOIN INVESTORS ARE TAKING PROFITS\r\n… [+2284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo.com"
+            },
+            "author": "Michael McSweeney",
+            "title": "Crypto exchange BTSE to launch public token sale next week after completing private offering",
+            "description": "Crypto exchange BTSE's initial exchange offering (IEO) is set to go live on March 5th, the company said Tuesday. The post Crypto exchange BTSE to launch public token sale next week after completing private offering appeared first on The Block.",
+            "url": "https://finance.yahoo.com/news/crypto-exchange-btse-launch-public-185704409.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8dHS24aewztTDKpd3w4kIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NzQuMDUxNTkzMzIzMjE3/https://s.yimg.com/uu/api/res/1.2/uxGHuvRG88UQfp7w09wZkg--~B/aD00NTA7dz02NTk7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/the_block_83/3b8363c1c93e785fe6e8b741294c48c7",
+            "publishedAt": "2020-02-25T18:57:04Z",
+            "content": "Crypto exchange BTSE's initial exchange offering (IEO) is set to go live to the public on March 5th, the company said Tuesday. \r\nIn a tweet, BTSE said that the sale of its BTSE token would begin at 12 p.m. UTC. Following the conclusion of the offering, accord… [+1328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Coindesk.com"
+            },
+            "author": "Paddy Baker",
+            "title": "Revolut Bank Valued at $5.5B in $500M Funding Round",
+            "description": "Revolut raised $500 million, but did not specify if any of the funding will go toward improving its cryptocurrency offering.",
+            "url": "https://www.coindesk.com/revolut-bank-valued-at-5-5b-in-500m-funding-round",
+            "urlToImage": "https://www.coindesk.com/wp-content/uploads/2018/12/shutterstock_1254647140-1200x628.jpg",
+            "publishedAt": "2020-02-25T18:35:00Z",
+            "content": "Revolut, the London-based bank that allows users to purchase cryptocurrencies on its app, has raised more than $500 million in a Series D funding round. \r\nRevolut announced Tuesday the round, led by Silicon Valley venture capital firm TCV, means the bank is n… [+1917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Korrespondent.net"
+            },
+            "author": "1",
+            "title": "В Украине нашли несуществующий \"банк\"",
+            "description": "Нацкомиссия по ценным бумагам заявляет о мошенничестве под видом продажи акций несуществующего Украинского народного банка.",
+            "url": "https://korrespondent.net/ukraine/4197573-v-ukrayne-nashly-nesuschestvuuischyi-bank",
+            "urlToImage": "https://kor.ill.in.ua/m/190x120/2472369.jpg",
+            "publishedAt": "2020-02-25T18:25:00Z",
+            "content": ", \" \". () , 25 , .\r\n, , , .\r\n, , .\r\n, -, : Money Storage, Perfect Money Bitcoin. , . , , .\r\n, - . , , , , .\r\n, , , , - .\r\n, .\r\n , \r\n, 10 .  .\r\n .net Telegram. https://t.me/korrespondentnet"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Korrespondent.net"
+            },
+            "author": "Корреспондент.net",
+            "title": "В Украине выявили несуществующий \"банк\"",
+            "description": "Нацкомиссия по ценным бумагам заявляет о мошенничестве под видом продажи акций несуществующего Украинского народного банка.",
+            "url": "https://korrespondent.net/ukraine/4197573-v-ukrayne-vyiavyly-nesuschestvuuischyi-bank",
+            "urlToImage": "https://kor.ill.in.ua/m/190x120/2472369.jpg",
+            "publishedAt": "2020-02-25T18:25:00Z",
+            "content": ", \" \". () , 25 , .\r\n, , , .\r\n, , .\r\n, -, : Money Storage, Perfect Money Bitcoin. , . , , .\r\n, - . , , , , .\r\n, , , , - .\r\n, .\r\n , \r\n, 10 .  .\r\n .net Telegram. https://t.me/korrespondentnet"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph.com"
+            },
+            "author": "Cointelegraph By Helen Partz",
+            "title": "Finnish Customs Puzzled on what to do with 15M Euro Seized in Bitcoin",
+            "description": "While some countries are selling bitcoins confiscated through law enforcement actions, Finland is in no hurry to decide what to do with its seized BTC",
+            "url": "https://cointelegraph.com/news/finnish-customs-puzzled-on-what-to-do-with-15m-euro-seized-in-bitcoin",
+            "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hZGYyZThlNWQ2Y2Y3OTAyNDFmMGZhNzQ4MWQzYjUxZi5qcGc=.jpg",
+            "publishedAt": "2020-02-25T18:09:00Z",
+            "content": "While some governments are selling bitcoins (BTC) confiscated through law enforcement actions, Finland is yet to decide what to do with its seized BTC.\r\nFinnish Customs, operating under the Ministry of Finance, has reportedly been deliberating about what to d… [+2381 chars]"
         },
         {
             "source": {
@@ -113,154 +243,24 @@
             },
             "author": "Pranav Ghumatkar",
             "title": "On the hour",
-            "description": "<ul><li>Dow <font color=\"red\">-2.75%.</font></li><li>10-yr <font color=\"green\">+0.78%</font>.</li><li>Euro <font color=\"green\">+0.11%</font> vs. dollar.</li><li>Crude <font color=\"red\">-4.36%</font> to $51.05.</li><li>Gold <font color=\"green\">+1.67%</font> to…",
-            "url": "https://seekingalpha.com/news/3544833-on-hour",
+            "description": "<ul><li>Dow <font color=\"red\">-1.84%.</font></li><li>10-yr <font color=\"green\">+0.33%</font>.</li><li>Euro <font color=\"green\">+0.28%</font> vs. dollar.</li><li>Crude <font color=\"red\">-1.63%</font> to $50.58.</li><li>Gold <font color=\"red\">-1.57%</font> to $…",
+            "url": "https://seekingalpha.com/news/3545334-on-hour",
             "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-            "publishedAt": "2020-02-24T16:00:40Z",
-            "content": "Dow -2.75%.\r\n10-yr +0.78%.\r\nEuro +0.11% vs. dollar.\r\nCrude -4.36% to $51.05.\r\nGold +1.67% to $1,676.50.\r\nBitcoin -1.87% to $9,707.5."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newsbtc.com"
-            },
-            "author": "Tony Spilotro",
-            "title": "This Tool Says Bitcoin Price Is About to Rip, But In What Direction?",
-            "description": "Bitcoin price has risen by over 50% year-to-date, from lows around $6,800 to as high as $10,500 at the recent peak. But just as the price action begins to stabilize, one technical analysis tool has reached a level that has in the past preceded some of the lar…",
-            "url": "https://www.newsbtc.com/2020/02/24/this-tool-says-bitcoin-price-is-about-to-rip-but-in-what-direction/",
-            "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/02/bitcoin-bollinger-band-width-money-crypto-shutterstock_13039390-1200x780.jpg",
-            "publishedAt": "2020-02-24T16:00:30Z",
-            "content": "Bitcoin price has risen by over 50% year-to-date, from lows around $6,800 to as high as $10,500 at the recent peak. But just as the price action begins to stabilize, one technical analysis tool has reached a level that has in the past preceded some of the lar… [+2966 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Businessinsider.com.au"
-            },
-            "author": "Theron Mohamed",
-            "title": "Warren Buffett blasts bitcoin as worthless and vows he will never own a cryptocurrency",
-            "description": "Warren Buffett trashed bitcoin and other cryptocurrencies as worthless in a CNBC interview on Monday. \"Cryptocurrencies basically have no value,\" he said. \"You can't do anything with it except sell it to somebody else.\" More »",
-            "url": "https://www.businessinsider.com.au/warren-buffett-blasts-bitcoin-worthless-vows-never-own-crypto-value-2020-2",
-            "urlToImage": "https://i.insider.com/5e53ece5fee23d7c482e8dd7",
-            "publishedAt": "2020-02-24T15:53:37Z",
-            "content": "<ul><li>Warren Buffett trashed bitcoin and other cryptocurrencies as worthless in a CNBC interview on Monday.</li><li>“Cryptocurrencies basically have no value,” he said. “You can’t do anything with it except sell it to somebody else.”</li><li>The Berkshire H… [+2198 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Theron Mohamed",
-            "title": "Warren Buffett blasts bitcoin as worthless and vows he will never own a cryptocurrency",
-            "description": "Warren Buffett trashed bitcoin and other cryptocurrencies as worthless in a CNBC interview on Monday. \"Cryptocurrencies basically have no value,\" he said. \"You can't do anything with it except sell it to somebody else.\" The Berkshire Hathaway CEO remained a c…",
-            "url": "https://markets.businessinsider.com/currencies/news/warren-buffett-blasts-bitcoin-worthless-vows-never-own-crypto-value-2020-2-1028932272",
-            "urlToImage": "https://images.markets.businessinsider.com/image/5e53ece5fee23d7c482e8dd7-1491/screen-shot-2019-02-23-at-125651-pm.png",
-            "publishedAt": "2020-02-24T15:53:37Z",
-            "content": "Bill Pugliano/Getty\r\n<ul><li>Warren Buffett trashed bitcoin and other cryptocurrencies as worthless in a CNBC interview on Monday.</li><li>\"Cryptocurrencies basically have no value,\" he said. \"You can't do anything with it except sell it to somebody else.\"</l… [+2052 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barrons.com"
-            },
-            "author": "Andrew Bary",
-            "title": "Stockstowatchtoday Blog: Warren Buffett on Berkshire’s Stock Buybacks, Apple, Bitcoin, and Why Treasuries Aren’t Worth Buying",
-            "description": "Buffett on Stock Buybacks, Apple, Bitcoin, and Why Treasuries Aren’t Worth Buying The Berkshire Hathway CEO said Monday’s market plunge makes no difference to the conglomerate’s investments.",
-            "url": "https://www.barrons.com/articles/warren-buffett-berkshire-hathaways-stock-buyback-problem-51582552972",
-            "urlToImage": "https://asset.barrons.com/public/resources/images/ON-DM134_berksh_OR_20200224083929.jpg",
-            "publishedAt": "2020-02-24T15:50:00Z",
-            "content": "Many Berkshire Hathaway investors would like the conglomerate to buy back more stock, but not enough of them are willing to sell large chunks of shares, according to CEO Warren Buffett.\r\nIts very hard to buy blocks in the market, Buffett said in a wide-rangin… [+81 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Heise.de"
-            },
-            "author": "Axel Kannenberg",
-            "title": "WTF: Jäger des verlorenen Bitcoinschatzes, Teil 2: Der Angelkoffer des Todes",
-            "description": "Mit Paperwallets kann man Bitcoins sichern. Es sei denn ,man versteckt sie in einem Angelkoffer, der weggeworfen, verschifft und verbrannt wird.",
-            "url": "https://www.heise.de/newsticker/meldung/Jaeger-des-verlorenen-Bitcoinschatzes-Teil-2-Der-Angelkoffer-des-Todes-4667188.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/2/8/4/8/5/6/5/shutterstock_1466689460-9ae029318c00576c.jpeg",
-            "publishedAt": "2020-02-24T15:50:00Z",
-            "content": "6000 Bitcoin sind aktuell rund fast 59 Millionen Euro wert. Diese hohe Kryptogeldsumme ist einem 49-jährigen Iren abhandengekommen und der dortigen Polizei, die sie beschlagnahmen wollte, wie irische Medien berichten. Der Mann hatte 2011 und 2012 in das damal… [+2310 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo.com"
-            },
-            "author": "Michael McSweeney",
-            "title": "A new crypto-centric bank is taking shape in Wyoming supported by bitcoin startup Blockstream",
-            "description": "A new effort is underway in the U.S. state of Wyoming to create a new bank dedicated to the crypto and blockchain industry.The post A new crypto-centric bank is taking shape in Wyoming supported by bitcoin startup Blockstream appeared first on The Block.",
-            "url": "https://finance.yahoo.com/news/crypto-centric-bank-taking-shape-154824290.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LrxDPVxSv2NUC0p8F7IECA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/VXJ8O._MzE5DDMwUXCPBXQ--~B/aD00NTA7dz02NzU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/the_block_83/f28bf82920c8d2003a71c590217af28f",
-            "publishedAt": "2020-02-24T15:48:24Z",
-            "content": "A new effort is underway in the U.S. state of Wyoming to create a new bank dedicated to the crypto and blockchain industry.\r\nAvanti Bank was announced Monday by Caitlin Long, a Wall Street vet and crypto advocate who, during the past two years, helped shepher… [+1620 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Courrierinternational.com"
-            },
-            "author": null,
-            "title": "En Irlande, un dealer de drogue perd des codes d’accès à 53,6 millions d’euros",
-            "description": "Les autorités irlandaises ont failli toucher le jackpot en saisissant les 6 000 bitcoins du trafiquant de drogue Clifton Collins. Encore faudrait-il en connaître les codes d’accès.",
-            "url": "https://www.courrierinternational.com/article/criminalite-en-irlande-un-dealer-de-drogue-perd-des-codes-dacces-536-millions-deuros",
-            "urlToImage": "https://www.courrierinternational.com/sites/ci_master/files/styles/image_940/public/illustrations/thumbnails/rts32r5o.jpg?itok=c5YQzN2c",
-            "publishedAt": "2020-02-24T15:46:35Z",
-            "content": "Les autorités irlandaises ont failli toucher le jackpot en saisissant les 6 000 bitcoins du trafiquant de drogue Clifton Collins. Encore faudrait-il en connaître les codes daccès.Début 2017, le dealer irlandais Clifton Collins cherchait la meilleure manière d… [+1933 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Freerepublic.com"
-            },
-            "author": "CNBC",
-            "title": "Warren Buffett: Cryptocurrency has no value  I dont own any and never will",
-            "description": "Berkshire Hathaway CEO and Chairman Warren Buffett on Monday reaffirmed his aversion to cryptocurrencies. Cryptocurrencies basically have no value and they dont produce anything, he told CNBCs Becky Quick in a Squawk Box interview. In terms of value: Zer…",
-            "url": "https://www.freerepublic.com/focus/f-news/3819059/posts",
-            "urlToImage": null,
-            "publishedAt": "2020-02-24T15:42:19Z",
-            "content": "Skip to comments.\r\nWarren Buffett: Cryptocurrency has no value I dont own any and never willCNBC ^\r\n | February 24, 2020\r\n | Jessica Bursztynsky\r\nPosted on 02/24/2020 7:42:19 AM PST by C19fan\r\nBerkshire Hathaway CEO and Chairman Warren Buffett on Monday reaff… [+5999 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cointelegraph.com"
-            },
-            "author": "Cointelegraph By Helen Partz",
-            "title": "Tron CEO: Bitcoin to Break $100K in 2025 and Pull Up Other Coins",
-            "description": "Tron CEO Justin Sun believes that Bitcoin will cross $100,000 mark in or before 2025, while other cryptos like ETH and XRP will follow the trend",
-            "url": "https://cointelegraph.com/news/tron-ceo-bitcoin-to-break-100k-in-2025-and-pull-up-other-coins",
-            "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81ZTNkMzgzNGU0ZGMyZWNmNzczMWQ2ODJjZGYyNzU2NC5qcGc=.jpg",
-            "publishedAt": "2020-02-24T15:36:00Z",
-            "content": "Justin Sun, the founder and CEO of Tron (TRX), the 15th biggest cryptocurrency by market cap, is investing in a number of cryptos other than Bitcoin (BTC).\r\nIn a Feb. 23 interview with CNN, Tron CEO said that he is a long-term believer in cryptocurrencies and… [+2868 chars]"
+            "publishedAt": "2020-02-25T18:00:42Z",
+            "content": "Dow -1.84%.\r\n10-yr +0.33%.\r\nEuro +0.28% vs. dollar.\r\nCrude -1.63% to $50.58.\r\nGold -1.57% to $1,651.45.\r\nBitcoin -2.79% to $9,346.9."
         },
         {
             "source": {
                 "id": null,
                 "name": "Bitcoinist.com"
             },
-            "author": "Trevor Smith",
-            "title": "Warren Buffett Declares He Will Never Own Cryptocurrency",
-            "description": "In an interview just released on CNBC, billionaire financier Warren Buffett reiterated his long-held position that cryptocurrency has no intrinsic value, and made clear that he would never own any. Buffett insisted that Bitcoin serves no real purpose, which i…",
-            "url": "https://bitcoinist.com/warren-buffett-declares-he-will-never-own-cryptocurrency/",
-            "urlToImage": "https://bitcoinist.com/wp-content/uploads/2019/05/shutterstock_353934110.png",
-            "publishedAt": "2020-02-24T15:20:38Z",
-            "content": "In an interview just released on CNBC, billionaire financier Warren Buffett reiterated his long-held position that cryptocurrency has no intrinsic value, and made clear that he would never own any. Buffett insisted that Bitcoin serves no real purpose, which i… [+2711 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dailydot.com"
-            },
-            "author": "Sierra Juarez",
-            "title": "Drug dealer loses $60 million after misplacing his Bitcoin code",
-            "description": "Don't you hate when you lose millions of dollars? The post Drug dealer loses $60 million after misplacing his Bitcoin code appeared first on The Daily Dot.",
-            "url": "https://www.dailydot.com/debug/drug-dealer-bitcoin-code/",
-            "urlToImage": "https://www.dailydot.com/wp-content/uploads/2020/02/drug-dealer-bitcoin.jpg",
-            "publishedAt": "2020-02-24T15:18:49Z",
-            "content": "A drug dealer has lost almost $60 million after his landlord reportedly threw out the Bitcoin codes that allow access to the accounts. \r\nThe drug dealer apparently hid the access codes inside of a fishing rod case in his rental vacation home, according to the… [+1217 chars]"
+            "author": "Christine Vasileva",
+            "title": "Mystery Miner Sweeps 9,000 Bitcoin Cash from SegWit Addresses",
+            "description": "Over the course of two years, an unknown mining entity managed to sweep addresses for lost Bitcoin Cash (BCH), taking the coins as their own instead of returning them to owners. Lost Coins Grew Since 2017 Bitcoin Cash Hard Fork Bitcoin Cash (BCH) stepped into…",
+            "url": "https://bitcoinist.com/unknown-miner-sweeps-9000-bitcoin-cash-from-segwit-addresses/",
+            "urlToImage": "https://bitcoinist.com/wp-content/uploads/2017/07/flickr-mystery-man.jpg",
+            "publishedAt": "2020-02-25T18:00:31Z",
+            "content": "Over the course of two years, an unknown mining entity managed to sweep addresses for lost Bitcoin Cash (BCH), taking the coins as their own instead of returning them to owners.\r\nLost Coins Grew Since 2017 Bitcoin Cash Hard Fork\r\nBitcoin Cash (BCH) stepped in… [+2794 chars]"
         }
     ]
 }

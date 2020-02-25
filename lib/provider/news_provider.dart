@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:fltr_provider/model/news.dart';
 import 'package:fltr_provider/provider/base_state.dart';
 import 'package:fltr_provider/services/news_services.dart';
@@ -15,14 +17,53 @@ class NewsProvider extends BaseState {
   //   return _get_news;
   // }
   NewsServices _newsServices = NewsServices();
+  String valSearchBar = "";
+  List listTest = [];
+
+  // String get valSearchBar => valSearchBar;
+
   Future<News> getNews() async {
     // String jsonNews = await rootBundle.loadString('assets/json/news.json');
     _get_news = await _newsServices.getNewss().catchError((onError) {
       print('onError =>  ' + onError.toString());
       setState(ViewState.LOADED);
     });
-    print("CategorieAsset =  " + _get_news.articles.length.toString());
+    // _get_news.articles.forEach((res) {
+    //   // res.author.contains(valSearchBar);
+    //   // print(res.author.contains(valSearchBar));
+    //   // print(res.author.contains(valSearchBar));
+    //   print(res.author.toString());
+    //   if (res.author
+    //       .toString()
+    //       .toLowerCase()
+    //       .contains('Kelsey'.toLowerCase())) {
+    //     listTest.add(res.author);
+    //     print('--------------- listTest');
+    //     print(listTest);
+    //   }
+    // });
     setState(ViewState.LOADED);
     return _get_news;
+  }
+
+  filterList(String valSearchBar) {
+    print('--------------------' + valSearchBar);
+    // print(valSearchBar);
+    listTest = [];
+    _get_news.articles.forEach((res) {
+      // res.author.contains(valSearchBar);
+      // print(res.author.contains(valSearchBar));
+      // print(res.author.contains(valSearchBar));
+      if (res.author
+          .toString()
+          .toLowerCase()
+          .contains(valSearchBar.toLowerCase())) {
+        listTest.add(res.author);
+        print(listTest);
+      }
+    });
+    // print(news);
+    setState(ViewState.LOADED);
+    return news;
   }
 }

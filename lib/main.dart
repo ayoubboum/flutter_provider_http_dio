@@ -1,3 +1,4 @@
+import 'package:connectivity/connectivity.dart';
 import 'package:fltr_provider/provider/news_provider.dart';
 import 'package:fltr_provider/provider/todo_provider.dart';
 import 'package:fltr_provider/route.dart';
@@ -28,6 +29,13 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+    // checkConnectivity();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
@@ -42,5 +50,24 @@ class _MyHomePageState extends State<MyHomePage> {
         onGenerateRoute: Router.generateRoute,
       ),
     );
+  }
+
+  checkConnectivity() async {
+    // var connectivityResult = await (Connectivity().checkConnectivity());
+    // if (connectivityResult == ConnectivityResult.mobile) {
+    //   // I am connected to a mobile network.
+    //   Scaffold.of(context).showSnackBar(SnackBar(
+    //     content: Text("mobile"),
+    //   ));
+    // } else if (connectivityResult == ConnectivityResult.wifi) {
+    //   // I am connected to a wifi network.
+    //   Scaffold.of(context).showSnackBar(SnackBar(
+    //     content: Text("wifi"),
+    //   ));
+    // } else {
+    //   Scaffold.of(context).showSnackBar(SnackBar(
+    //     content: Text("None"),
+    //   ));
+    // }
   }
 }
