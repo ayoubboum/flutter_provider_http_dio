@@ -27,11 +27,11 @@ class NewsServices {
 
   Future<News> getNewss() async {
     String jsonNews = await rootBundle.loadString('assets/json/news.json');
-    print('Test king 1:  ');
+    // print('Test king 1:  ');
     // var jsonNews = await dio.get(
     //     'http://newsapi.org/v2/everything?q=bitcoin&from=2020-01-25&sortBy=publishedAt&apiKey=7f3c604b6e2245c88487fdadc9cac1e2');
     final jsonResponse = jsonNews;
-    print('Test king :  ' + jsonNews.toString());
+    // print('Test king :  ' + jsonNews.toString());
     _get_news = News.fromJSON(json.decode(jsonResponse));
     // print("CategorieAsset " + _get_news.articles[0].content);
     return _get_news;

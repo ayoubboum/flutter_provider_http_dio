@@ -22,6 +22,12 @@ class _SearchState extends State<Search> {
   }
 
   @override
+  void dispose() {
+    // TODO: implement dispose
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     final news_provider = Provider.of<NewsProvider>(context);
 
@@ -47,11 +53,66 @@ class _SearchState extends State<Search> {
             },
           ),
         ),
-        body: news_provider.listTest.length > 0
+        body: news_provider.listTest.length > 0 &&
+                news_provider.valSearchBar.length > 0
             ? ListView.builder(
                 itemCount: news_provider.listTest.length,
-                itemBuilder: (context, index) =>
-                    Text(news_provider.listTest[index].toString()))
+                itemBuilder: (context, index) => Row(
+                  children: <Widget>[
+                    Expanded(
+                      flex: 2,
+                      child: Image.network(
+                        'https://static.coindesk.com/wp-content/uploads/2020/02/Comets_Kick_up_Dust_in_Helix_Nebula_PIA09178.jpg',
+                        fit: BoxFit.contain,
+                        filterQuality: FilterQuality.low,
+                        loadingBuilder: (BuildContext context, Widget child,
+                            ImageChunkEvent loadingProgress) {
+                          if (loadingProgress == null)
+                            return child;
+                          else
+                            return Center(
+                              child: CircularProgressIndicator(
+                                value: loadingProgress.expectedTotalBytes !=
+                                        null
+                                    ? loadingProgress.cumulativeBytesLoaded /
+                                        loadingProgress.expectedTotalBytes
+                                    : null,
+                              ),
+                            );
+                        },
+                      ),
+                    ),
+                    Expanded(
+                      flex: 4,
+                      child: Container(
+                        height: 100.0,
+                        color: Colors.red,
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: <Widget>[
+                            Text(
+                              news_provider.listTest[index].title,
+                              overflow: TextOverflow.ellipsis,
+                              maxLines: 1,
+                              style: TextStyle(fontWeight: FontWeight.bold),
+                            ),
+                            Text(
+                              news_provider.listTest[index].author.toString(),
+                              style: TextStyle(
+                                  fontWeight: FontWeight.w600, fontSize: 12.0),
+                            ),
+                            Text(
+                              news_provider.listTest[index].description,
+                              overflow: TextOverflow.ellipsis,
+                              maxLines: 2,
+                            )
+                          ],
+                        ),
+                      ),
+                    )
+                  ],
+                ),
+              )
             : Text('No data'));
   }
 }
