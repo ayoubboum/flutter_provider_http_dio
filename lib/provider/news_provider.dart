@@ -42,7 +42,7 @@ class NewsProvider extends BaseState {
     //   // print(res.author.contains(valSearchBar));
     //   print(res.author.toString());
     //   if (res.author
-    //       .toString()
+    //       .toString() 
     //       .toLowerCase()
     //       .contains('Kelsey'.toLowerCase())) {
     //     listTest.add(res.author);
